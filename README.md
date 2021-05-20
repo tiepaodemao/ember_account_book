@@ -1,10 +1,10 @@
 # 介绍
 
-一个用flutter写的记账挨app
+一个用flutter写的前台，用java写的后台的记账app
 
 # 后台代码
 
-[火苗记账后台git地址](https://github.com/tiepaodemao/ember_account_book)
+[火苗记账后台git地址]( https://github.com/tiepaodemao/account_book_admin.git)
 
 
 
