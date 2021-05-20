@@ -2,7 +2,11 @@
 
 一个用flutter写的记账挨app
 
-## Getting Started
+## 后台代码
+
+[火苗记账后台git地址](https://github.com/tiepaodemao/ember_account_book)
+
+
 
 This project is a starting point for a Flutter application.
 
