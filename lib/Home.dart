@@ -82,7 +82,7 @@ class _HomePageState extends State<HomePage> {
                       height: 100.w,
                       color: Colors.red,
                     )
-                  )
+                  ) 
                 )
               ],
             ) 
