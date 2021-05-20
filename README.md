@@ -1,6 +1,6 @@
-# ember_account_book
+# 介绍
 
-A new Flutter application.
+一个用flutter写的记账挨app
 
 ## Getting Started
 
